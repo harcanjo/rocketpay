@@ -1,4 +1,9 @@
-# Rocketpay
+# Rocketpay - NLW4
+
+Projeto desenvolvido na trilha de Elixir da NLW4.
+
+-
+#rumoaoproximonivel
 
 To start your Phoenix server:
 
